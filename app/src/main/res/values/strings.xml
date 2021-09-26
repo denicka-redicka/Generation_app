@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPAM Generation</string>
+    <string name="pickDate">Введите дату рождения</string>
+    <string name="generation_description">Чтобы узнать, из кого вы поколения, нужно сказать мне Вашу дату рождения</string>
+</resources>
